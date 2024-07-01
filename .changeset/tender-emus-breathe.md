@@ -2,4 +2,4 @@
 "create-sva": patch
 ---
 
-Bump dependencies
+67f8934 Bump dependencies
